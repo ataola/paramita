@@ -1,2 +1,4 @@
-# paramita
-a css library base on sass.
+# Paramita
+
+> a css library base on sass.
+
